@@ -1,8 +1,6 @@
 ---
-title: "Contact"
+title: "Auteur"
 order: 1
 in_menu: true
 ---
-JPL 
-
-66 
+JPL  @66 
