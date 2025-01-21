@@ -7,6 +7,6 @@ in_menu: true
 
 Coll des Pam 
 
-https://1drv.ms/i/s!Arv5oBK-qlCOif1hzJSev05nW7fe0g?e=YjTeu3
+![Texte décrivant l'image]({% link images/Capture d'écran 2025-01-21 190511.png %})
 
-https://1drv.ms/i/s!Arv5oBK-qlCOif1hzJSev05nW7fe0g?e=1H7Kwg 
+Du sud vers le nord. 
