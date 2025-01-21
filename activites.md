@@ -3,14 +3,16 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
-Eté : randonnées, VTT, golf, ...
+Eté : randonnées, VTT, tennis, balades équestres, golf, ...
 
-Hiver  : ski de piste, de fond, raquettes, ...
+Hiver  : ski de piste, de fond, raquettes, patinoire, ...
 
-Bain chauds de Llo, Dores
+Bain chauds de Llo, de Dores
 
 Admirer le ciel nocturne ...
 
-Chemin de mégalithes  
+Chemins de mégalithes  
 
 Escapade en Espagne 
+
+... 
