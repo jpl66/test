@@ -9,4 +9,4 @@ Coll del Pam (source Altiservice)
 
 ![Texte décrivant l'image]({% link images/Capture d'écran 2025-01-21 190511.png %})
 
-Du sud vers le nord. 
+Vue du sud vers le nord. (source trio-pyrenees.com) 
